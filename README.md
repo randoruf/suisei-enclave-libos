@@ -1,4 +1,4 @@
-# suisei-enclave-libos
+# suisei-sgx-libos
 
 > **What I cannot create I do not understand**
 > 
